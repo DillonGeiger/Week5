@@ -12,3 +12,5 @@ CountyTornado() makes a user input new feature class based off the following cri
 
 PathSelection() Makes a user input selection based off the following criteria: Within a state, magnitude, distance, with optional year and date range.
 
+The attached files include an initial python script and a python tool script For all tools except tornado buffer due to the simplicity of script. Additionally there are python toolbox files for every tool and for the python toolbox.
+
